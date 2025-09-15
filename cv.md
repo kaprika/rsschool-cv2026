@@ -47,7 +47,9 @@ function multiply(a, b){
 
 * **Course** *"Java Web Application Development"* **from EPAM Systems Inc.**, 2016
 
+## Languages
 
+* **English level:** B1
 
 
 
